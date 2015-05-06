@@ -12,7 +12,7 @@ github_username:  jekyll
 markdown: kramdown
 permalink: /blog/:title
 encoding: utf-8
-highlighter: rouge
+# highlighter: rouge
 
 # Pagination
 #paginate: 3                   	# le nombre d'articles à afficher par page
