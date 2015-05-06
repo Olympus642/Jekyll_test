@@ -1,0 +1,29 @@
+# Site settings
+title: Oh qu'il est beau !
+email: rodrigue@udu.keur
+description: # this means to ignore newlines until "baseurl:"
+  "'Ce site est tout simplement une merveille !' (dixit Napoléon au pied de la pyramide de Khéops)"
+baseurl: ""
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+permalink: /blog/:title
+encoding: utf-8
+highlighter: rouge
+
+# Pagination
+#paginate: 3                   	# le nombre d'articles à afficher par page
+#paginate_path: /blog/page:num 	# l'url générée pour la pagination
+
+# gems: [i18n_filter]
+
+# Autres paramètres
+# url: http://localhost:4000    # l'url finale de votre site. Elle est utilisée dans la variable site.url
+# name: Your New Jekyll Site    # le nom de votre site
+# markdown: rdiscount           # le parseur de Markdown à utiliser pour parser vos fichiers. La syntaxe Markdown peut changer suivant le parseur utilisé
+# paginate: 3                   # le nombre d'articles à afficher par page
+# paginate_path: /blog/page:num # l'url générée pour la pagination
+# permalink: /blog/:title       # l'url générée pour la visualisation d'un article complet
